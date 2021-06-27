@@ -1,0 +1,3 @@
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:oca/partner-contact.git
